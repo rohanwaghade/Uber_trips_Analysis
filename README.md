@@ -139,6 +139,3 @@ Each page uses a custom dark-themed canvas background (`/powerbi_backgrounds`) w
 - Payment method is near-evenly distributed (~25% each), suggesting it may be randomly assigned rather than behavior-driven
 
 ---
-
-## 📄 License
-*(Add a license if you plan to make this public, e.g. MIT)*
